@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/ldf/project/smartHome/driver/src/fan/Module.symvers := sed 's/ko$$/o/' /home/ubuntu/ldf/project/smartHome/driver/src/fan/modules.order | scripts/mod/modpost -m  -E  -o /home/ubuntu/ldf/project/smartHome/driver/src/fan/Module.symvers -e -i Module.symvers   -T -

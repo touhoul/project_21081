@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/ldf/project/smartHome/driver/src/motor/motor_driver.mod := { echo  /home/ubuntu/ldf/project/smartHome/driver/src/motor/motor_driver.o;  echo; } > /home/ubuntu/ldf/project/smartHome/driver/src/motor/motor_driver.mod

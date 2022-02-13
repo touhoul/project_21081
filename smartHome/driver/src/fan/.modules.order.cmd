@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/ldf/project/smartHome/driver/src/fan/modules.order := {   echo /home/ubuntu/ldf/project/smartHome/driver/src/fan/fan_driver.ko; :; } | awk '!x[$$0]++' - > /home/ubuntu/ldf/project/smartHome/driver/src/fan/modules.order

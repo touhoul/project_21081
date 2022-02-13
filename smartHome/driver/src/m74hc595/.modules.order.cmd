@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/ldf/project/smartHome/driver/src/m74hc595/modules.order := {   echo /home/ubuntu/ldf/project/smartHome/driver/src/m74hc595/m74hc595_driver.ko; :; } | awk '!x[$$0]++' - > /home/ubuntu/ldf/project/smartHome/driver/src/m74hc595/modules.order

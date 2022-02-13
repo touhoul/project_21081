@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/ldf/project/smartHome/driver/src/si7006/si7006_driver.ko := arm-linux-gnueabihf-ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/ubuntu/ldf/project/smartHome/driver/src/si7006/si7006_driver.ko /home/ubuntu/ldf/project/smartHome/driver/src/si7006/si7006_driver.o /home/ubuntu/ldf/project/smartHome/driver/src/si7006/si7006_driver.mod.o;  true

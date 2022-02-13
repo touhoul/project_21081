@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/ldf/project/smartHome/driver/src/si7006/modules.order := {   echo /home/ubuntu/ldf/project/smartHome/driver/src/si7006/si7006_driver.ko; :; } | awk '!x[$$0]++' - > /home/ubuntu/ldf/project/smartHome/driver/src/si7006/modules.order
